@@ -16,5 +16,9 @@
   "bugs": {
     "url": "https://github.com/verbindima/hexler-js/issues"
   },
-  "homepage": "https://github.com/verbindima/hexler-js#readme"
+  "homepage": "https://github.com/verbindima/hexler-js#readme",
+  "dependencies": {
+    "lodash": "^4.17.20"
+  },
+  "devDependencies": {}
 }
